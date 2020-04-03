@@ -1,2 +1,2 @@
-# hz
+# Hz
 Écoute de radio en ligne
