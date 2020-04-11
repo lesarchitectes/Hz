@@ -1,10 +1,10 @@
 {
   "France Inter": [
     "http://direct.franceinter.fr/live/franceinter-midfi.mp3",
-    "http://direct.franceinter.fr/live/franceinter-lowfi.mp3"
+    "http://direct.franceinter.fr/live/franceinter-lofi.mp3"
   ],
   "France Culture": [
     "http://direct.franceculture.fr/live/franceculture-midfi.mp3",
-    "http://direct.franceculture.fr/live/franceculture-lowfi.mp3"
+    "http://direct.franceculture.fr/live/franceculture-lofi.mp3"
   ]
 }
